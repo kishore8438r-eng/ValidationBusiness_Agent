@@ -358,6 +358,5 @@ ValidationBusiness_Agent/
 ├── pytest.ini  
 └── .gitignore
 
-## Architecture Diagram
 
 ![Validation Business Agent](out/diagram/diagram.png)
