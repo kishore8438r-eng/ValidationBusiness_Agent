@@ -10,6 +10,11 @@ This project validates invoice JSON payloads using schema checks and layered bus
 
 ---
 
+## Architecture Diagram
+
+![Validation Business Agent](out/diagram/diagram.png)
+
+
 1. Project Overview
 
 Purpose: Validate invoices for correctness and business compliance before downstream processing.
@@ -178,9 +183,6 @@ Typical response produced by the service:
 
 ---
 
-## Architecture Diagram
-
-![Validation Business Agent](out/diagram/diagram.png)
 
 10. UML Sequence Diagram
 
@@ -363,4 +365,3 @@ ValidationBusiness_Agent/
 └── .gitignore
 
 
-"# ValidationBusiness_Agent" 
