@@ -363,4 +363,3 @@ ValidationBusiness_Agent/
 └── .gitignore
 
 
-![Validation Business Agent](out/diagram/diagram.png)
