@@ -178,6 +178,10 @@ Typical response produced by the service:
 
 ---
 
+## Architecture Diagram
+
+![Validation Business Agent](out/diagram/diagram.png)
+
 10. UML Sequence Diagram
 
 
